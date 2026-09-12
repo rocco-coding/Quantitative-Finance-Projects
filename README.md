@@ -1,14 +1,13 @@
-# Me and my projects
+# Me and My Projects
 
-## About me
+## About Me
 
-### My name is Rocco and I am on the University of Liverpool's Integrated Masters in Mathematics (G101) programme.
+My name is Rocco, and I am currently studying on the University of Liverpool's Integrated Master's in Mathematics (G101) programme.
 
-### I am currently developing the skills required for roles in Quantitative Finance and this GitHub is proof of not just a repository of projects but of a learning journey taken by someone who has a strong interest in the Quantitative Finance sector.
+I am developing the mathematical, statistical, programming and analytical skills required for a future career in Quantitative Finance. This repository documents that development through a series of progressively more challenging projects.
 
+Each project represents a question I wanted to investigate, a concept I wanted to understand, or a technical skill I wanted to develop.
 
-### The projects you will see below, each reprsents a question I wanted to answer, a concept I wanted to understand, or a skill I wanted to develop.
+The repository currently focuses on quantitative finance, portfolio theory, financial modelling, simulation and data analysis, with the ambition to expand into increasingly advanced areas over time.
 
-### Over time, this repository will continue to grow as I take on more ambitious projects in Quantitative Finance, statistics, data analysis and financial modelling.
-
-### For me, these projects mean more than just proof of ability. They show discipline, improvement and consistent effort and reflect my attitude to learning and work ethic.
+More than simply displaying completed projects, this repository reflects a continuous learning process built around independent study, problem-solving, experimentation and progressively more ambitious research.
