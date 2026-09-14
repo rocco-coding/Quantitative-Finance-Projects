@@ -1,0 +1,8 @@
+.env
+.env.*
+*.env
+config.py
+secrets.py
+data/
+*.csv
+*.zip
