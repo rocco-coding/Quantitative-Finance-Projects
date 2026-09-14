@@ -6,3 +6,4 @@ secrets.py
 data/
 *.csv
 *.zip
+.DS_Store
